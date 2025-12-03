@@ -64,6 +64,7 @@
             left: 50%;
             transform: translateX(-50%);
         }
+        
         .skill-card, .project-card, .experience-card {
             border: none;
             border-radius: 10px;
